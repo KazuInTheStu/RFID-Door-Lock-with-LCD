@@ -13,6 +13,7 @@ This project demonstrates an RFID card reader system using an Arduino microcontr
 1. Connect the components as per the circuit diagram.
 2. Upload the provided Arduino sketch to your Arduino board.
 3. Ensure that necessary libraries are installed: Adafruit GFX, Adafruit SSD1306, MFRC522, and Servo.
+![image](https://github.com/KazuInTheStu/RFID-Door-Lock-with-LCD/assets/123428689/c18f87fc-6ef4-4bdb-8dd4-02fcc7446814)
 
 ## Code Overview
 The Arduino sketch consists of the following main components:
